@@ -12,8 +12,7 @@ public class Main {
         System.out.println();
         System.out.println();
         System.out.println();
-        // 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
-    }
+     }
     public static int number(int a, int b){
         return a + b;
     }
