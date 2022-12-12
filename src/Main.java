@@ -10,6 +10,7 @@ public class Main {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.println();
     }
     public static int number(int a, int b){
         return a + b;
