@@ -6,6 +6,7 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println(number(5,7));
+        System.out.println();
     }
     public static int number(int a, int b){
         return a + b;
